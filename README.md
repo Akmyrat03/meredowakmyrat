@@ -27,8 +27,8 @@ I'm Akmyrat — a backend engineer focused on building high-performance systems 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akmyrat03&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmyrat03&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akmyrat03&show_icons=true&theme=gruvbox" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmyrat03&layout=compact&theme=gruvbox" height="165" />
 </p>
 
 ---
