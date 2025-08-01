@@ -6,7 +6,7 @@ I'm Akmyrat — a backend engineer focused on building high-performance systems 
 - 🌱 Learning deeply about PostgreSQL, Redis, and ScyllaDB  
 - 🐧 Passionate about clean architecture, Linux tooling, and backend infrastructure  
 - 💬 Ask me about Go, PostgreSQL, Redis, or Docker  
-- 📫 Reach me at: **hypergadam@gmail.com**
+- 📫 Reach me at: **akmobile.tm@gmail.com**
 
 ---
 
